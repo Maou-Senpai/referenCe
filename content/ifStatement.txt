@@ -1,0 +1,8 @@
+Statement
+Function
+if (condition) {<some code>}
+<some code> will run if condition is met
+else if (condition) {<some code>}
+If conditions from preceeding if and else if statements are not met, <some code> will run if condition for this statement is met.
+else {<some code>}
+<some code> will run if all prior if and else if statements are not met

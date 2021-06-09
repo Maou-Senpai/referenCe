@@ -1,0 +1,8 @@
+Function
+Use
+fprintf(FILE *stream, const char *format, ...)
+Same as printf() but instead of screen display, info goes to a file
+fputs(const char *str, FILE *stream)
+Same as puts but info goes into the file
+fputc(int char, FILE *stream)
+Writes a character to file

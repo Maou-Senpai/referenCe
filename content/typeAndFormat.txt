@@ -1,0 +1,16 @@
+Type
+Format Specifier
+int
+%d
+short
+%d
+long
+%ld
+char
+%c
+float
+%f
+double
+%lf
+long double
+%Lf

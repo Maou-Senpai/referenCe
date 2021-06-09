@@ -1,0 +1,4 @@
+Syntax
+Use
+ptr = (castType*) realloc(ptr, x);
+Change the size of previously allocated memory

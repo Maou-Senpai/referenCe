@@ -1,0 +1,10 @@
+Meaning
+Example
+Pointer Value to Value
+*pointer = 10
+Pointer to Variable Address
+pointer = &variable
+Pointer Value to Pointer Value
+*pointer1 = *pointer2
+Pointer to Pointer
+pointer = pointer

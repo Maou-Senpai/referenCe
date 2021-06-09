@@ -1,0 +1,23 @@
+Home
+Data Types
+Basic Operators in C
+Input and Output
+If Statement
+Switch/Case Statement
+Looping
+Arrays
+Functions
+Modular Programming
+Pointers
+Strings
+Text File Handling
+Dynamic Memory Allocation
+Structures
+Object-Oriented Programming
+Inheritance
+Try-Catch
+Library - stdio.h
+Library - stdlib.h
+Library - string.h
+Library - time.h
+Library - math.h

@@ -1,0 +1,6 @@
+Keyword
+Use
+struct
+Creation of structures.
+typedef
+Allows the renaming of existing datatypes.

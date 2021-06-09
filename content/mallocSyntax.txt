@@ -1,0 +1,4 @@
+Syntax
+Use
+ptr = (castType*) malloc(size);
+Reserves a block of memory of the specified number of bytes

@@ -1,0 +1,10 @@
+Operator
+Meaning
+>
+is greater than
+<
+is less than
+>=
+is greater than or equal
+<=
+is less than or equal

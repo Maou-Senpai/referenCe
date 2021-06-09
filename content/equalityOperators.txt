@@ -1,0 +1,6 @@
+Operator
+Meaning
+==
+is equal to
+!=
+is not equal to

@@ -1,0 +1,8 @@
+Specifier
+Effect
+public
+Members are accessible from outside the class.
+private
+Members cannot be accessed (or viewed) from outside the class.
+protected
+Members cannot be accessed from outside the class, however, they can be accessed in inherited classes.

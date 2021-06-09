@@ -1,0 +1,8 @@
+Looping
+Use
+for
+Use this loop if you know the amount of repetition.
+while
+Use this loop for conditional looping.
+do-while
+Similar to while. The difference is that the condition checking happens after executing the enclosed code.

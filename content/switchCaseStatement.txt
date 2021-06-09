@@ -1,0 +1,10 @@
+Code
+Description
+switch (expression)
+Contains an expression which will be evaluated and its value used for the cases
+case value:
+Contains codes that will be executed if the value matches the result of the switch expression
+break
+breaks out of the whole statement
+default
+Codes under this will be ran if no case matches

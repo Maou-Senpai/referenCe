@@ -1,0 +1,8 @@
+Terminology
+Definition
+Classes
+Similar to structures. The difference is that you can also add functions, not just items.
+Object
+Used to describe the variables that are declared using classes.
+Constructor
+Used to initialize objects. Similar to functions, you call this while passing arguments if neccessary.

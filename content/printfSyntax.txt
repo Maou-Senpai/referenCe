@@ -1,0 +1,6 @@
+Syntax
+Use
+printf("<text>");
+For printing text only
+printf("<format specifier of var1>", <var1>);
+For printing values of variables

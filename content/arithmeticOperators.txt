@@ -1,0 +1,12 @@
+Operation
+C Equivalent
+Addition
++
+Subtraction
+-
+Multiplication
+*
+Division
+/
+Modulus
+%

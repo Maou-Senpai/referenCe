@@ -1,0 +1,8 @@
+Function
+Use
+int fscanf(FILE *stream, const char *format, ...)
+Same as scanf() except that input is read from the file. Stops reading before a whitespace.
+char *fgets(char *str, int n, FILE *stream)
+Same as gets() except that input is read from the file. Stops reading after a line break.
+int fgetc(FILE *stream)
+Similar to getch() or getchar but input is read from file

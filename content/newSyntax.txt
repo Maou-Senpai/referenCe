@@ -1,0 +1,4 @@
+Syntax
+Use
+new <data type>
+Used to dynamically allocate memory. Only available with C++
